@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": " Nokia",
+        "type": "Phone",
+        "date_added": "21/09/2025",
+        "date_made": "21/09/1900",
+        "description": "the first nokia"
+    },
+    {
+        "id": 2,
+        "title": "BLACKBERRY",
+        "type": "Phone",
+        "date_added": "10/03/2025",
+        "date_made": "10/03/1999",
+        "description": "It was a firts viral mobilphone"
+    },
+    {
+        "id": 3,
+        "title": "IBM",
+        "type": "Computer",
+        "date_added": "12/01/2025",
+        "date_made": "01/02/1890",
+        "description": "the firt computer"
+    },
+    {
+        "id": 4,
+        "title": "Casio",
+        "type": "Watch",
+        "date_added": "01/01/2025",
+        "date_made": "01/01/1985",
+        "description": "The first watch"
+    },
+    {
+        "id": 5,
+        "title": "phone",
+        "type": "Phone",
+        "date_added": "23/01/2025",
+        "date_made": "23/01/2000",
+        "description": "Apple"
+    },
+    {
+        "id": 6,
+        "title": "IBM",
+        "type": "Computer",
+        "date_added": "22/03/2025",
+        "date_made": "20/03/1995",
+        "description": "The first computer"
+    }
+]
